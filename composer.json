@@ -33,6 +33,6 @@
         }
     },
     "require": {
-        "boldgrid/library": ">=2.2.0"
+        "boldgrid/library": "dev-dev"
     }
 }
